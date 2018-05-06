@@ -1,4 +1,5 @@
-#A collection of useful (maybe) code.
+# A collection of useful (maybe) code.
 
-1. wacScrambler:
-*Chops wav file
+1. **wavScrambler**:
+
+...Chops wav file
