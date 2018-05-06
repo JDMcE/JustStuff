@@ -2,4 +2,4 @@
 
 1. **wavScrambler**:
 
-...Chops wav file
+    Chops wav file
